@@ -1,0 +1,3 @@
+2 Tables: Dogs and Owner, Many to One
+Dog have: id, name, age and ownerId
+Owner have: id, name
